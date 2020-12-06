@@ -1,0 +1,159 @@
+{
+    "count": 2,
+    "curr": "https://anglophonetracker.org/api/v3/posts?orderby=post_date&order=desc&offset=0",
+    "limit": null,
+    "next": "https://anglophonetracker.org/api/v3/posts?orderby=post_date&order=desc&offset=0",
+    "offset": 0,
+    "order": "desc",
+    "orderby": "post_date",
+    "prev": "https://anglophonetracker.org/api/v3/posts?orderby=post_date&order=desc&offset=0",
+    "results": [
+        {
+            "allowed_privileges": [
+                "read",
+                "create",
+                "search"
+            ],
+            "color": null,
+            "completed_stages": [
+                3
+            ],
+            "contact": null,
+            "content": "CAO547",
+            "created": "2020-12-01T14:33:49+00:00",
+            "data_source_message_id": null,
+            "form": {
+                "id": 2,
+                "url": "https://anglophonetracker.org/api/v3/forms/2"
+            },
+            "id": 1722,
+            "locale": "en_us",
+            "lock": null,
+            "message": null,
+            "parent_id": null,
+            "post_date": "2020-12-01T14:33:49+00:00",
+            "published_to": [],
+            "sets": [
+                "8"
+            ],
+            "slug": "120-5fc654497269a",
+            "source": null,
+            "status": "published",
+            "tags": [],
+            "title": "120",
+            "type": "report",
+            "updated": "2020-12-03T11:24:09+00:00",
+            "url": "https://anglophonetracker.org/api/v3/posts/1722",
+            "user_id": null,
+            "values": {
+                "421d7ee7-b280-4414-becf-2d9109a3a91d": [
+                    {
+                        "lat": 4.0197,
+                        "lon": 9.1956
+                    }
+                ],
+                "42a733bf-321d-4cb9-95fe-c8fce0f76379": [
+                    "Rioters (Cameroon)"
+                ],
+                "6735735d-4e89-4580-82ce-f1a93b363135": [
+                    445
+                ],
+                "703174fa-358e-4d2a-b219-a8d85267fe99": [
+                    50
+                ],
+                "84ba377b-b35b-4c13-a4dc-1cffeadb74eb": [
+                    "e.g. https://www.youtube.com/watch?v=3eMC1Rxr3tg"
+                ],
+                "8529b197-7102-4f9f-9908-84e0d540eabd": [
+                    "Violent demonstration"
+                ],
+                "947021ad-763e-40e5-8a7b-d890cb15f247": [
+                    "2016-04-12 22:00:00"
+                ],
+                "96a8ec12-8df6-4fb6-893e-ffdce9c1822f": [
+                    "After being dispersed from protesting outside a courthouse, villagers went to Isokolo and caused material damage to the home the local chief, also burning his car. Then they set fire to the home of the local magistrate."
+                ],
+                "c481f6ef-83f9-4af4-8c0c-2e7350befc9f": [
+                    "Cameroon Post"
+                ],
+                "f086c727-068a-408e-a2f3-3cce7f5f434e": [
+                    "National"
+                ]
+            }
+        },
+        {
+            "allowed_privileges": [
+                "read",
+                "create",
+                "search"
+            ],
+            "color": null,
+            "completed_stages": [
+                3
+            ],
+            "contact": null,
+            "content": "CAO608",
+            "created": "2020-12-01T14:33:45+00:00",
+            "data_source_message_id": null,
+            "form": {
+                "id": 2,
+                "url": "https://anglophonetracker.org/api/v3/forms/2"
+            },
+            "id": 1721,
+            "locale": "en_us",
+            "lock": null,
+            "message": null,
+            "parent_id": null,
+            "post_date": "2020-12-01T14:33:45+00:00",
+            "published_to": [],
+            "sets": [
+                "8"
+            ],
+            "slug": "120-5fc6544571d76",
+            "source": null,
+            "status": "published",
+            "tags": [],
+            "title": "120",
+            "type": "report",
+            "updated": "2020-12-03T11:38:21+00:00",
+            "url": "https://anglophonetracker.org/api/v3/posts/1721",
+            "user_id": null,
+            "values": {
+                "421d7ee7-b280-4414-becf-2d9109a3a91d": [
+                    {
+                        "lat": 4.1527,
+                        "lon": 9.241
+                    }
+                ],
+                "42a733bf-321d-4cb9-95fe-c8fce0f76379": [
+                    "Rioters (Cameroon)"
+                ],
+                "6735735d-4e89-4580-82ce-f1a93b363135": [
+                    45
+                ],
+                "703174fa-358e-4d2a-b219-a8d85267fe99": [
+                    50
+                ],
+                "84ba377b-b35b-4c13-a4dc-1cffeadb74eb": [
+                    "e.g. https://www.youtube.com/watch?v=3eMC1Rxr3tg"
+                ],
+                "8529b197-7102-4f9f-9908-84e0d540eabd": [
+                    "Violent demonstration"
+                ],
+                "947021ad-763e-40e5-8a7b-d890cb15f247": [
+                    "2016-08-24 22:00:00"
+                ],
+                "96a8ec12-8df6-4fb6-893e-ffdce9c1822f": [
+                    "Scores of Common Law Layers from the Northwest and Southwest regions and hundreds of activists of the SCNC occupied the Buea Magistrate Court to demand an end to the \"arbitrary arrest and detention of anglophones in Cameroon\"."
+                ],
+                "c481f6ef-83f9-4af4-8c0c-2e7350befc9f": [
+                    "Cameroon Post"
+                ],
+                "f086c727-068a-408e-a2f3-3cce7f5f434e": [
+                    "National"
+                ]
+            }
+        }
+    ],
+    "total_count": 2
+}
